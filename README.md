@@ -13,7 +13,7 @@ A página está dividida em três seções principais:
 
 Acesse aqui : https://leonardo-talanski.github.io/pagina-corinthians-sccp/
 
-Status do Projeto :
+# Status do Projeto 
 
 ![Badge Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EMDESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
