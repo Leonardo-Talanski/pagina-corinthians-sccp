@@ -6,10 +6,10 @@ A página está sendo desenvolvida com HTML, CSS e JavaScript. Ela conta com um 
 
 A página está dividida em três seções principais:
 
-Home: Esta seção apresenta um breve resumo do projeto e seus objetivos.
-História do Clube: Esta seção lista as atividades e iniciativas oferecidas pelo projeto.
-Torcedor: Esta seção fornece informações de contato para pessoas interessadas em participar ou colaborar com o projeto.
-Contato: Esta seção fornece informações de contato para pessoas interessadas em participar ou colaborar com o projeto.
+Home: Esta seção contém uma seção de Bem-Vindo e uma seção de Conheça o Projeto.<br>
+História do Clube: Esta seção apresentará uma breve História do time, desde sua fundação e títulos.<br>
+Torcedor: Esta seção fornece informações sobre o projeto do time em relação ao torcedor.<br>
+Contato: Esta seção fornece informações de contato para pessoas interessadas em participar ou colaborar com o projeto.<br>
 
 Acesse aqui : https://leonardo-talanski.github.io/pagina-corinthians-sccp/
 
