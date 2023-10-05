@@ -11,7 +11,9 @@ A página está dividida em três seções principais:
 .Torcedor: Esta seção fornece informações sobre o projeto do time em relação ao torcedor.<br>
 .Contato: Esta seção fornece informações de contato para pessoas interessadas em participar ou colaborar com o projeto.<br>
 
-Acesse aqui : https://leonardo-talanski.github.io/pagina-corinthians-sccp/
+# Link do Projeto
+
+Link : https://leonardo-talanski.github.io/pagina-corinthians-sccp/
 
 # Status do Projeto 
 
